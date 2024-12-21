@@ -1,0 +1,133 @@
+.card-body h3 {
+  color: darkblue;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.card-body span {
+  color: #ff5733;
+}
+
+.span-text h2 {
+  text-align: center;
+  color: darkblue;
+  font-weight: bold;
+}
+
+.span-text span {
+  color: #ff5733;
+  padding-left: 10px;
+}
+
+.span-text p {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(103, 103, 103);
+}
+
+.card-body {
+  text-align: center;
+  justify-content: center;
+}
+
+.card-body .speed {
+  font-size: 100px;
+  color: white;
+}
+.icon {
+  border-radius: 50%;
+  float: right;
+}
+
+.icon .material-icons {
+  margin-top: 20px;
+  font-size: 45px;
+  height: 55px;
+  width: 55px;
+
+  border-radius: 50%;
+  margin-right: 20px;
+  color: white;
+  background-color: darkblue;
+}
+.icon .material-icons:hover {
+  background-color: #ff5733;
+  transition: 1s;
+}
+.backg {
+  background-color: darkblue;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+.backg {
+  text-align: center;
+  justify-content: center;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px black;
+  box-shadow: 1px 2px 2px;
+}
+
+.backg:hover {
+  background-color: #ff5733;
+  transition: 1s;
+}
+.content h2 {
+  text-align: center;
+  color: darkblue;
+  margin-top: 30px;
+  font-size: 1.5rem;
+}
+.content {
+  border: 1px solid rgb(57, 58, 58);
+
+  height: 250px;
+  box-shadow: 1px 1px 1px;
+}
+.content p {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 1rem;
+}
+.container-sm {
+  text-align: center;
+  font-weight: bolder;
+  margin-left: 445px;
+  width: 450px;
+  margin-top: 80px;
+}
+
+.ico {
+  margin-right: 20px;
+  margin-top: 65px;
+  width: 165px;
+  height: 140px;
+  float: left;
+}
+.float-left {
+  width: 130px;
+  height: 130px;
+  margin-left: 65px;
+  margin-top: 10px;
+}
+.loc {
+  margin-top: 25px;
+  margin-right: 30px;
+  font-size: 40px;
+}
+.uk h2 {
+  margin-right: 40px;
+  font-weight: bold;
+  margin-top: 50px;
+  -webkit-text-fill-color: rgb(1, 1, 22) darkblue;
+}
+.our {
+  -webkit-text-fill-color: rgb(2, 2, 34);
+  font-size: 40px;
+}
+.loca {
+  -webkit-text-fill-color: rgb(233, 128, 8);
+  margin-left: 10px;
+  font-size: 40px;
+}

@@ -1,0 +1,1150 @@
+<div id="features" class="tabs">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12">
+
+                  <!-- Tabs Links -->
+                  <ul class="nav nav-tabs" id="argoTabs" role="tablist">
+                      <li class="nav-item">
+                          <a class="nav-link active" id="nav-tab-1" data-toggle="tab" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true">Competitive Sourcing</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" id="nav-tab-2" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false">Systems Compatability</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" id="nav-tab-3" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false">Group Purchasing Organization (GPO)</a>
+                      </li>
+                  </ul>
+                  <!-- end Tabs Links -->
+
+                  <!-- Tabs Content -->
+                  <div class="tab-content" id="argoTabsContent">
+
+                      <!-- Tab -->
+                      <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
+                          <div class="row">
+                              <div class="col-lg-6">
+                                  <div class="image-container">
+                                      <img class="img-fluid" src="img/careers-img/art2.png" alt="alternative">
+                                  </div>
+                              </div>
+                              <div class="col-lg-6">
+                                  <div class="text-container">
+                                      <h3></h3>
+                                      <p>Leveraging facts and logic, we manage a fair and objective processes designed to identify the best suppliers wherever they may reside and to negotiate the best possible agreement for our clients, considering total cost, quality, service, and other unique factors.</p>
+                                      <ul class="list-unstyled li-space-lg">
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Objective process to choose suppliers based on facts and logic.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Identifying top suppliers worldwide, prioritizing quality and cost.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body"> Crafting agreements considering total cost, quality, and client needs.
+                                              </div>
+                                          </li>
+                                      </ul>
+                                      <a class="primary-btn" href="/sectors.html">Learn More</a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div> 
+                      <!-- end of tab -->
+
+                      <!-- Tab -->
+                      <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
+                          <div class="row">
+                              <div class="col-lg-6">
+                                  <div class="image-container">
+                                      <img class="img-fluid" src="img/careers-img/art1.png" alt="alternative">
+                                  </div>
+                              </div>
+                              <div class="col-lg-6">
+                                  <div class="text-container">
+                                      <h3></h3>
+                                      <p>Systems compatibility is related to the issue of integration. In order to share data between systems and for users to have access to seamless systems with common interfaces, the various systems must be compatible. We work with our clients to ensure there are no issues with system compatibility down the line. </p>
+                                      <ul class="list-unstyled li-space-lg">
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Ensuring systems compatibility for smooth data sharing.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body"> Addressing compatibility issues proactively.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Facilitating seamless operations with common interfaces.</div>
+                                          </li>
+                                      </ul>
+                                      <a class="primary-btn" href="/sectors.html">Learn More</a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <!-- end of tab -->
+
+                      <!-- Tab -->
+                      <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
+                          <div class="row">
+                              <div class="col-lg-6">
+                                  <div class="image-container">
+                                      <img class="img-fluid" src="img/careers-img/art3.png" alt="alternative">
+                                  </div>
+                              </div>
+                              <div class="col-lg-6">
+                                  <div class="text-container">
+                                      <h3></h3>
+                                      <p>We work with multiple GPO and programs so our clients, can reap the aggregated pricing and terms and all of the ongoing management necessary to help them achieve significant procurement cost reduction.</p>
+                                      <ul class="list-unstyled li-space-lg">
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Utilizing multiple GPOs for cost-effective procurement.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body"> Ensuring ongoing support for cost reduction.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Maximizing savings through efficient pricing and terms.</div>
+                                          </li>
+                                      </ul>
+                                      <a class="primary-btn" href="/sectors.html">Learn More</a>
+                                  </div> 
+                              </div>
+                          </div> 
+                      </div>
+                      <!-- end of tab -->
+                      
+                  </div>
+                  <!-- end of tabs content -->
+
+              </div>
+          </div>
+      </div>
+    </div><br><br>
+
+    <div id="features" class="tabs">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12">
+
+                  <!-- Tabs Links -->
+                  <ul class="nav nav-tabs" id="argoTabs" role="tablist">
+                      <li class="nav-item">
+                          <a class="nav-link active" id="nav-tab-4" data-toggle="tab" href="#tab-4" role="tab" aria-controls="tab-4" aria-selected="true">Risk Assessment</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" id="nav-tab-5" data-toggle="tab" href="#tab-5" role="tab" aria-controls="tab-5" aria-selected="false">Industry Leading Gurantee
+                          </a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" id="nav-tab-6" data-toggle="tab" href="#tab-6" role="tab" aria-controls="tab-6" aria-selected="false">Complex Decision Support</a>
+                      </li>
+                  </ul>
+
+                  <!-- Tabs Content -->
+                  <div class="tab-content" id="argoTabsContent">
+
+                      <!-- Tab -->
+                      <div class="tab-pane fade show active" id="tab-4" role="tabpanel" aria-labelledby="tab-4">
+                          <div class="row">
+                              <div class="col-lg-6">
+                                  <div class="image-container">
+                                      <img class="img-fluid" src="img/careers-img/art4.png" alt="alternative">
+                                  </div>
+                              </div>
+                              <div class="col-lg-6">
+                                  <div class="text-container">
+                                      <h3></h3>
+                                      <p>Risk assessment is one of the major components of our risk analysis. Risk analysis is a process with multiple steps that intends to identify and analyze all of the potential risks and issues that are detrimental to our clients' business.</p>
+                                      <ul class="list-unstyled li-space-lg">
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Integral to our comprehensive risk analysis process.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Identifying and analyzing risks for client businesses.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Applying risk assessment and analysis individually or together for effective risk management.</div>
+                                          </li>
+                                      </ul><br>
+                                      <a class="primary-btn" href="/sectors.html">Learn More</a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div> 
+                      <!-- end of tab -->
+
+                      <!-- Tab -->
+                      <div class="tab-pane fade" id="tab-5" role="tabpanel" aria-labelledby="tab-5">
+                          <div class="row">
+                              <div class="col-lg-6">
+                                  <div class="image-container">
+                                      <img class="img-fluid" src="img/careers-img/art5.png" alt="alternative">
+                                  </div>
+                              </div>
+                              <div class="col-lg-6">
+                                  <div class="text-container">
+                                      <h3></h3>
+                                      <p>Over the past decade, Orgtune has amassed a wealth of experience undertaking various projects and acquisition engagements, for a diverse set of clients across the country in support of a diverse set of technical skills. We have built enormous expertise and an intimate knowledge of what works. Now we use this knowledge in helping clients connect with the 'Right Talent' to harness the business value of technology and further their business mission.</p>
+                                      <ul class="list-unstyled li-space-lg">
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Orgtune's decade-long experience in diverse projects nationwide.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Matching clients with the right talent efficiently.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Using technology to boost clients' business value.</div>
+                                          </li>
+                                      </ul><br>
+                                      <a class="primary-btn" href="/sectors.html">Learn More</a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <!-- end of tab -->
+
+                      <!-- Tab -->
+                      <div class="tab-pane fade" id="tab-6" role="tabpanel" aria-labelledby="tab-6">
+                          <div class="row">
+                              <div class="col-lg-6">
+                                  <div class="image-container">
+                                      <img class="img-fluid" src="img/careers-img/art6.png" alt="alternative">
+                                  </div>
+                              </div>
+                              <div class="col-lg-6">
+                                  <div class="text-container">
+                                      <h3></h3>
+                                      <p>Have a complex make/buy or outsourcing decision to make? We can provide the heavy analytics to fully understand true current costs and get proposals from third parties that are easily comparable. Our decision support services bring clarity to the complex and dramatically lower risk.</p>
+                                      <ul class="list-unstyled li-space-lg">
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Simplifying complex make/buy or outsourcing choices.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Easily compare third-party proposals for clarity.</div>
+                                          </li>
+                                          <li class="media">
+                                              <i class="fas fa-square"></i>
+                                              <div class="media-body">Our services minimize decision-making risks effectively.</div>
+                                          </li>
+                                      </ul><br>
+                                      <a class="primary-btn" href="/sectors.html">Learn More</a>
+                                  </div> 
+                              </div>
+                          </div> 
+                      </div>
+                      <!-- end of tab -->
+                      
+                  </div>
+                  <!-- end of tabs content -->
+
+              </div>
+          </div>
+      </div>
+    </div>
+
+
+    <!-- services start -->
+    <section id="services" class="section-bg">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Services</h3>
+          <p>Cradle to grave Organizational Tuning 
+            Like an orchestra, organizations also need a mechanism to ensure their smaller components are working well together. Orgtune uses proven techniques to ensure your company's engine is tuned up and running smoothly.  </p>
+        </header>
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #fceef3;"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
+              <h4 class="title"><a href="">Advanced Analytics</a></h4>
+              <p class="description">Sophisticated algorithms analyze data for informed decision-making.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #fff0da;"><i class="ion-ios-bookmarks-outline" style="color: #e98e06;"></i></div>
+              <h4 class="title"><a href="">Process standardization</a></h4>
+              <p class="description">Implementing consistent procedures across an organization for improved efficiency and quality.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #e6fdfc;"><i class="ion-ios-paper-outline" style="color: #3fcdc7;"></i></div>
+              <h4 class="title"><a href="">IT Strategic Alignment </a></h4>
+              <p class="description">Aligning IT initiatives with business objectives for maximum effectiveness and competitive advantage.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #eafde7;"><i class="ion-ios-speedometer-outline" style="color:#41cf2e;"></i></div>
+              <h4 class="title"><a href="">Human Capital Development</a></h4>
+              <p class="description">Human Capital Development: Enhancing employee skills and knowledge for individual and organizational growth.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #e1eeff;"><i class="ion-ios-world-outline" style="color: #2282ff;"></i></div>
+              <h4 class="title"><a href="">Organization Engineering</a></h4>
+              <p class="description">Designing and optimizing structures for enhanced efficiency and alignment with strategic goals.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon" style="background: #ecebff;"><i class="ion-ios-clock-outline" style="color: #8660fe;"></i></div>
+              <h4 class="title"><a href="">Marketing Strategy </a></h4>
+              <p class="description"> Planning and executing tactics to promote products and achieve business goals.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!-- #services -->
+
+    aria-current="page"
+
+    .....
+    // Form submission event listener
+document
+  .getElementById("contactForm")
+  .addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    // Validate the form
+    if (!validate()) {
+      // If validation fails, do not proceed with form submission
+      return;
+    }
+
+    // If validation passes, proceed with form submission
+    const formData = new FormData(this);
+    const jsonObject = {};
+    formData.forEach((value, key) => {
+      jsonObject[key] = value;
+    });
+
+    fetch("https://orgtune.com/api/contact", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(jsonObject),
+    })
+      .then((response) => response.json())
+      .then((data) => {
+        document.getElementById("contactForm").reset(); // Reset form after successful submission
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+      });
+  });
+
+  / team 
+
+  <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+          <div class="team-item ">
+            <div class="overflow-hidden position-relative">
+              <img class="img-fluid object-position-top" src="img/team/ilene_oseas1.jpg" alt="">
+            </div>
+            <div class="text-center border border-5 border-light border-top-0 p-4">
+              <h5 class="mb-0">Ilene Oseas, MBA</h5>
+              <small>Operations and Project Management</small>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+        <!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Sectors | Orgtune Consulting</title>
+  <link rel="canonical" href="https://www.orgtune.com" />
+  <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+  <meta property="og:title" content="Sectors | Orgtune Consulting" />
+  <meta property="og:url" content="https://www.orgtune.com" />
+  <meta property="og:site_name" content="Orgtune Consulting" />
+  <meta property="og:type" content="website" />
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&display=swap"
+    rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <!-- Css Styles -->
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
+  <link rel="stylesheet" href="css/elegant-icons.css" type="text/css" />
+  <link rel="stylesheet" href="css/flaticon.css" type="text/css" />
+  <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css" />
+  <link rel="stylesheet" href="css/slicknav.min.css" type="text/css" />
+  <link rel="stylesheet" href="css/style2.css" type="text/css" />
+  <link rel="stylesheet" href="css/service2.css" type="text/css" />
+</head>
+
+<body>
+  <!-- Page Preloder -->
+  <div id="preloder">
+    <div class="loader"></div>
+  </div>
+
+  <!-- Offcanvas Menu Begin -->
+  <div class="offcanvas__menu__overlay"></div>
+  <div class="offcanvas__menu__wrapper">
+    <div class="canvas__close">
+      <span class="fa fa-times-circle-o"></span>
+    </div>
+    <div class="offcanvas__logo">
+      <!-- <a href="#"><img src="img/logo.png" alt="" /></a> -->
+    </div>
+    <nav class="offcanvas__menu mobile-menu">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <!-- <li><a href="./about.html">About</a></li> -->
+        <li><a href="./sectors.html">Services and Sectors</a></li>
+        <li><a href="./our-team.html">Our Team</a></li>
+        <li><a href="./careers.html">Careers</a></li>
+        <li><a href="./blogs.html">Blogs</a></li>
+        <li><a href="./contact.html">let's connect</a></li>
+      </ul>
+    </nav>
+    <div id="mobile-menu-wrap"></div>
+  </div>
+  <!-- Offcanvas Menu End -->
+
+  <!-- Header Section Begin -->
+  <header class="header-section header-normal">
+    <div class="custom-container">
+      <div class="row">
+        <div class="col-lg-4 col-md-5">
+          <div class="header__logo">
+            <a href="/"><img src="img/logo.jpg" alt="" /></a>
+            <span>ORGTUNE CONSULTING</span>
+          </div>
+        </div>
+        <div class="col-lg-8 col-md-7 d-flex align-items-center justify-content-end">
+          <nav class="header__menu">
+            <ul>
+              <li><a href="/">Home</a></li>
+              <!-- <li><a href="./about.html">About</a></li> -->
+              <li class="active"><a href="./sectors.html">Services and Sectors</a></li>
+              <li><a href="./our-team.html">Our Team</a></li>
+              <li><a href="./careers.html">Careers</a></li>
+              <li><a href="./blogs.html">Blogs</a></li>
+              <li><a href="./contact.html">Let's connect</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <div class="canvas__open">
+        <span class="fa fa-bars"></span>
+      </div>
+    </div>
+  </header>
+  <!-- Header End -->
+
+  <!-- Breadcrumb Begin -->
+  <div class="breadcrumb-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="breadcrumb__option">
+            <a href="/"><span class="fa fa-home"></span> Home</a>
+            <span>Services and Sectors</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Breadcrumb End -->
+
+  <section>
+    <br />
+    <br />
+    <br />
+    <div class="container-fluid">
+      <ul class="nav nav-pills nav-justified bg-warning">
+        <li class="nav-item">
+          <a class="nav-link" href="#health-care">Health Care</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="#manufacturing">Manufacturing</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="#non-profit">Non-Profit</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="#maritime-logistics">Maritime Logistics</a>
+        </li>
+      </ul>
+    </div>
+    <br>
+    <br>
+    <div class="container">
+      <div class="content">
+        <h2>SERVICES AND SECTORS</h2>
+        <p class="mt-3">Cradle to grave organizational tuning is like conducting an orchestra, organizations also need a
+          mechanism to ensure their smaller components are working well together. Orgtune uses proven techniques to
+          ensure your company's engine is tuned up and running smoothly. </p>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div class="container" id="health-care">
+      <div class="heading">
+        <h2>HEALTH CARE</h2>
+      </div>
+      <div class="row gy-2">
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Strategy Formulation</h5>
+
+              <p class="card-text">Set goals, analyze environments, define mission and vision, allocate resources for
+                competitive advantage, and perform reviews using KPIs</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Human Capital Development</h5>
+
+              <p class="card-text">Enhance human capital skills and knowledge through training while driving
+                organizational growth and success.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Project Management Office (PMO)</h5>
+
+              <p class="card-text">Standardize processes, improve project efficiency, and ensure alignment with
+                organizational goals.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Strategic Pricing</h5>
+
+              <p class="card-text">Managing regulatory compliance to ensure adherence while strategic pricing optimizes
+                revenue and competitiveness.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Price Transparency
+              </h5>
+
+              <p class="card-text">Ensure compliance with price transparency mandates for insurers, enhancing consumer
+                trust and satisfaction.
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Tooling</h5>
+
+              <p class="card-text">With your operation’s growth in mind, optimize operations, enhancing efficiency,
+                scalability, and adaptability to evolving business needs.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Automation</h5>
+
+              <p class="card-text">Streamline tasks, improve efficiency, reduce errors, and free up time for strategic
+                initiatives and innovation.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Organization Engineering</h5>
+
+              <p class="card-text">Optimize structures, processes, and culture to enhance efficiency, innovation, and
+                adaptability for sustained success</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div class="container" id="education">
+      <div class="heading">
+        <h2>EDUCATION</h2>
+      </div>
+      <div class="row gy-2">
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Establish Centers for Excellence</h5>
+
+              <p class="card-text">Improve processes, remove silos using Excellence in Higher Education (EHE)
+                methodologies. .</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Automation</h5>
+
+              <p class="card-text">Streamline tasks, improve efficiency, reduce errors, and free up time for strategic
+                initiatives and innovation.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Process Improvement</h5>
+
+              <p class="card-text">Optimize structures, processes, and culture to enhance efficiency, innovation, and
+                adaptability for sustained success.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Quality Review</h5>
+
+              <p class="card-text">Assess the student learning outcomes and report on how well the class objectives are
+                met.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Instructional Support</h5>
+
+              <p class="card-text">Train instructors on the latest pedagogy and andragogy research for a more successful
+                classroom.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Project/Program Management</h5>
+
+              <p class="card-text">Oversee initiatives, ensuring timely delivery within scope, budget, and quality
+                parameters for organizational success.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Big Data Consulting</h5>
+
+              <p class="card-text">Offer expert guidance in leveraging data for insights, optimizing operations, and
+                fostering innovation.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Strategy Formulation</h5>
+
+              <p class="card-text">Set goals, analyze environments, define mission and vision, allocate resources for
+                competitive advantage, and perform reviews using KPIs.</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div class="container" id="manufacturing">
+      <div class="heading">
+        <h2>MANUFACTURING</h2>
+      </div>
+      <div class="row gy-2">
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Enterprise App Modernization</h5>
+
+              <p class="card-text">Update legacy systems for increased efficiency, scalability, and competitiveness.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+                <h5 class="card-title mt-3">Content Writing Services</h5>
+
+                <p class="card-text">Create engaging content to boost brand visibility and engagement across marketing channels.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Application Management Support</h5>
+
+              <p class="card-text">Ensure a smooth software operation, optimizing performance and minimizing
+                disruptions.
+              </p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Data Annotation Services</h5>
+
+              <p class="card-text">Label and categorize data for machine learning models, improving accuracy and
+                efficiency in AI applications.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">ERP Consulting and SI</h5>
+
+              <p class="card-text">Provide expert guidance for implementing and integrating ERP systems to boost
+                efficiency.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Compliance Consulting
+              </h5>
+
+              <p class="card-text">Ensure adherence to regulations, minimizing risks, and promoting ethical practices
+                within organizations.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Logistics Consulting
+              </h5>
+
+              <p class="card-text">cost-effective shipping via land, air, and sea routes for international trade.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Supply Chain Management</h5>
+
+              <p class="card-text">Oversee goods and services flow, optimizing efficiency from raw material to final
+                delivery.</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div class="container" id="non-profit">
+      <div class="heading">
+        <h2>NON-PROFIT</h2>
+      </div>
+      <div class="row gy-2">
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">IT Strategic Alignment </h5>
+
+              <p class="card-text">IT initiatives to support and align with overall business objectives and goals
+                effectively
+                .</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Automation</h5>
+
+              <p class="card-text">Streamline tasks, improve efficiency, and reduce errors, freeing up time for
+                strategic
+                initiatives and innovation.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Branding</h5>
+
+              <p class="card-text">Create a unique identity to differentiate products or services, fostering customer
+                and
+                donor loyalty and recognition in the market.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Market Research</h5>
+
+              <p class="card-text">Assist in gathering data for informed strategic decisions, understanding consumer
+                preferences, market trends, and competitors.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Cybersecurity</h5>
+
+              <p class="card-text">Safeguards digital systems, networks, and data from unauthorized access and cyber
+                threats
+                .</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">IT Managed Services</h5>
+
+              <p class="card-text">IT managed services provide ongoing support and maintenance for IT infrastructure,
+                ensuring reliability, security, and optimal performance.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Strategy Formulation </h5>
+
+              <p class="card-text">Set goals, analyze environments, define mission and vision, allocate resources for
+                competitive advantage, and perform reviews using KPIs.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Human Capital Development</h5>
+
+              <p class="card-text">Enhance human capital skills and knowledge through training while driving
+                organizational growth and success.</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+    <br />
+    <div class="container" id="maritime-logistics">
+      <div class="heading">
+        <h2>MARITIME LOGISTICS</h2>
+      </div>
+      <div class="row gy-2">
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Advanced Analytics</h5>
+
+              <p class="card-text">using data science to drive informed decisions, optimize processes and uncover growth 
+                opportunities .</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Business Process Improvement</h5>
+
+              <p class="card-text">Enhance efficiency and effectiveness, optimizing workflows and driving organizational 
+                transformation.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Process Standardization
+              </h5>
+
+              <p class="card-text">Ensures consistency and efficiency across operations, enhancing performance and 
+                reliability through uniform procedures.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Best Practice Frameworks</h5>
+
+              <p class="card-text">Optimize processes for organizational excellence through industry-leading 
+                methodologies.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Service Management</h5>
+
+              <p class="card-text">Optimize service delivery, ensuring alignment with business objectives and enhancing 
+                efficiency using frameworks such as ITIL or COBIT.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Cyber Security
+              </h5>
+
+              <p class="card-text">Ensure robust security measures, aligning with standards to protect against cyber 
+                threats with ISO guidelines.</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">Project/Program Management</h5>
+
+              <p class="card-text">Oversee initiatives, ensuring timely delivery within scope, budget, and quality 
+                parameters for organizational success
+                .</p>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-12 my-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title mt-3">IT Strategic Alignment</h5>
+
+              <p class="card-text">
+                IT initiatives to support and align with overall business objectives and goals effectively.</p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+    <br />
+  </section>
+
+  <!-- Footer Section Begin -->
+  <footer class="footer-section">
+    <div class="footer__top">
+    </div>
+    </div>
+    <div class="footer__text set-bg" data-setbg="img/footer-bg.png">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 col-md-6 col-sm-12">
+            <div class="footer__text-about">
+              <div class="footer__logo">
+                <a href="/"><img src="img/logo.jpg" alt="" /></a>
+                <span>ORGTUNE CONSULTING</span>
+              </div>
+              <p>
+                Our name is exactly what we do: Orgtune combines the words
+                “organization” and “tuning." By fine-tuning your business
+                operations we aim to harmonize your business to run like a
+                well-oiled machine.
+              </p>
+              <div class="footer__social">
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-youtube-play"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+              </div>
+              <p class="footer__designed">© <span id="currentYear"></span>, All Rights Reserved. Designed by <a
+                  href="http://maculatech.com/" target="_blank">Macula Tech</a></p>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="footer__text-widget">
+              <h5>Links</h5>
+              <ul>
+                <li><a href="/">Home</a></li>
+                <!-- <li><a href="/about.html">About Us</a></li> -->
+                <li><a href="./sectors.html">Services and Sectors</a></li>
+                <li><a href="./our-team.html">Our Team</a></li>
+                <li><a href="./careers.html">Careers</a></li>
+                <li><a href="./blogs.html">Blogs</a></li>
+                <li><a href="./contact.html">Let's Connect</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="footer__text-widget">
+              <h5>cONTACT US</h5>
+              <ul class="footer__widget-info">
+                <li>
+                  <span class="fa fa-map-marker"></span>Suite 47-364 <br> 20929 Ventura Blvd. Woodland Hills, <br>
+                  Los Angeles, CA, 91364 USA
+                </li>
+                <li>
+                  <span class="fa fa-mobile"></span> 310-488-8101
+                </li>
+                <li>
+                  <span class="fa fa-headphones"></span>
+                  info@orgtune.com
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Footer Section End -->
+
+  <!-- Js Plugins -->
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.slicknav.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/main1.js"></script>
+</body>
+
+</html>
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+.nav .nav-item a {
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+}
+.content h2 {
+  align-items: center;
+  text-align: center;
+  font-size: 50px;
+  color: darkblue;
+  font-weight: 700;
+}
+.content p {
+  text-align: center;
+  font-size: larger;
+}
+.card {
+  align-items: center;
+  box-shadow: 1px 2px 3px;
+}
+.card-body {
+  min-height: 260px;
+  text-align: center;
+}
+.card-body span {
+  font-size: 50px;
+  color: darkblue;
+}
+.heading h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ff5733;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .card-body {
+    min-height: 295px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .card-body {
+    min-height: fit-content;
+    text-align: center;
+  }
+}
