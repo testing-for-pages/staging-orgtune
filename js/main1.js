@@ -188,3 +188,39 @@
     });
   }
 })(jQuery);
+
+// Show popup function
+setTimeout(showPopup, 1000);
+
+function showPopup() {
+  // Check both storage locations
+  if (
+    !sessionStorage.getItem("popupClosed") &&
+    !localStorage.getItem("popupPermanentlyClosed")
+  ) {
+    const popup = document.getElementById("popup");
+    document.body.classList.add("popup-active");
+    document.documentElement.classList.add("popup-active");
+    popup.style.display = "flex";
+  }
+}
+
+function closePopup() {
+  document.getElementById("popup").style.display = "none";
+  document.body.classList.remove("popup-active");
+  document.documentElement.classList.remove("popup-active");
+  sessionStorage.setItem("popupClosed", "true");
+}
+
+// New function for learn more click
+function handleLearnMoreClick() {
+  localStorage.setItem("popupPermanentlyClosed", "true");
+  closePopup();
+}
+
+// Update existing event listeners
+document
+  .querySelector(".popup-overlay")
+  .addEventListener("click", function (e) {
+    if (e.target === this) closePopup();
+  });
