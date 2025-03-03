@@ -28,6 +28,12 @@ body {
   height: 100%;
   font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+
+body::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
 }
 
 h1,
@@ -2151,4 +2157,247 @@ button:hover {
   margin-top: 10px; /* Space between multiple toasts */
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); /* Light shadow */
   transition: opacity 0.3s; /* Smooth transition */
+}
+
+/* Popup Styling */
+body.popup-active {
+  overflow: hidden;
+  padding-right: calc(100vw - 100%);
+}
+
+.popup-overlay {
+  display: none; /* Hidden by default */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  animation: fadeIn 0.3s;
+  /* Flex properties for when it's visible */
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.popup-content {
+  position: relative;
+  width: 90%; /* Changed from fixed 80% */
+  max-width: 800px;
+  padding: 30px;
+  background: linear-gradient(135deg, #ffffff 0%, #ccd0ef 50%, #262f77 100%);
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  color: black;
+  animation: slideUp 0.4s ease-out forwards;
+  /* Remove margin: 10% auto */
+  /* Add responsive min-width if needed */
+  min-width: 280px; /* Prevents content from becoming too narrow */
+  max-height: 90vh; /* Prevent overflow */
+  overflow-y: auto; /* Enable scrolling if needed */
+  height: fit-content; /* Adjust height to content */
+  scroll-behavior: smooth;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(150px, 1fr)
+  ); /* Reduced min size */
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.image-container {
+  padding-bottom: 60%; /* More square aspect ratio */
+}
+
+.grid-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.popup-title {
+  font-size: 26px;
+  margin-bottom: 15px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.popup-text {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
+
+.learn-more {
+  display: block;
+  width: fit-content;
+  margin: auto;
+}
+
+.close-btn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  cursor: pointer;
+  color: black;
+  font-size: 24px;
+  transition: transform 0.2s;
+}
+
+.close-btn:hover {
+  transform: rotate(90deg);
+}
+
+.popup-body {
+  text-align: center;
+}
+
+.popup-title {
+  font-size: 26px;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
+
+.popup-text {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  margin: 25px 0;
+}
+
+.grid-item {
+  background: #ffffff15;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s;
+  position: relative;
+}
+
+.grid-item:hover {
+  transform: translateY(-5px);
+}
+
+.image-container {
+  position: relative;
+  padding-bottom: 75%; /* 4:3 aspect ratio */
+  overflow: hidden;
+}
+
+.grid-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-title {
+  padding: 15px 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  background: rgba(255, 255, 255, 0.1);
+  color: black;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .popup-overlay {
+    padding: 10px; /* Reduce padding on mobile */
+    align-items: center; /* Top alignment */
+  }
+
+  .popup-content {
+    width: 95%;
+    padding: 20px;
+    max-height: 85vh; /* Better mobile height */
+  }
+
+  .photo-grid {
+    grid-template-columns: 1fr !important; /* Force single column */
+    gap: 15px;
+    margin: 20px;
+  }
+
+  .popup-title {
+    font-size: 14px;
+    line-height: 1.3;
+  }
+
+  .popup-text {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .image-title {
+    font-size: 14px;
+    padding: 8px 6px;
+  }
+
+  .learn-more {
+    padding: 10px 30px;
+    font-size: 10px !important;
+  }
+
+  .close-btn {
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+  }
+
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr) !important; /* Force 2 columns */
+    gap: 10px; /* Reduced gap for mobile */
+  }
+
+  .grid-item {
+    min-width: 120px; /* Minimum size for mobile */
+  }
+
+  .image-title {
+    font-size: 12px; /* Smaller text for mobile */
+    padding: 8px 5px; /* Tighter padding */
+    line-height: 1.3;
+  }
+
+  .image-container {
+    padding-bottom: 70%; /* Taller aspect ratio for mobile */
+  }
+
+  .popup-content {
+    padding: 15px; /* Reduced padding */
+  }
+}
+
+/* Add this to maintain image aspect ratio */
+.image-container {
+  padding-bottom: 65%; /* Slightly squarer ratio for mobile */
+}
+
+@keyframes slideUp {
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
