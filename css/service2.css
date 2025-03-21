@@ -14,7 +14,8 @@ h2 {
   font-weight: 600;
   text-align: center;
   margin: 20px 0;
-  color: #E97132;
+  /* color: red; */
+  color: #e97132;
   text-transform: uppercase;
 }
 .service_card {
@@ -55,7 +56,7 @@ h2 {
 }
 .service_content p {
   margin: 0;
-  font-size: 16px;
+  font-size: 15px;
   color: black;
 }
 
